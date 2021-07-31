@@ -1,9 +1,0 @@
-uses
-	Core;
-
-file
-	StringSet0.cpp;
-
-mainconfig
-	"" = "";
-

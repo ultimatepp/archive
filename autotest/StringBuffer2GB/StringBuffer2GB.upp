@@ -1,9 +1,0 @@
-uses
-	Core;
-
-file
-	StringBuffer2GB.cpp;
-
-mainconfig
-	"" = "";
-

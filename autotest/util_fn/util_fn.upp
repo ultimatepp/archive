@@ -1,9 +1,0 @@
-uses
-	Core;
-
-file
-	util_fn.cpp;
-
-mainconfig
-	"" = "";
-

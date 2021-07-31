@@ -1,9 +1,0 @@
-uses
-	Core;
-
-file
-	Tuple.cpp;
-
-mainconfig
-	"" = "MT";
-

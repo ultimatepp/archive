@@ -1,9 +1,0 @@
-uses
-	Core;
-
-file
-	TestExitThread.cpp;
-
-mainconfig
-	"" = "MT";
-

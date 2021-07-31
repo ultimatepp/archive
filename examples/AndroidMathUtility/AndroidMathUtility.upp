@@ -1,8 +1,0 @@
-description "Supportive package for AndroidMath\377";
-
-file
-	AndroidMathUtility.h,
-	AndroidMathUtility.cpp,
-	Vector.h,
-	Vector.cpp;
-

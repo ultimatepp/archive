@@ -1,9 +1,0 @@
-#include "pcx.h"
-
-namespace Upp {
-
-INITBLOCK {
-	StreamRaster::Register<PCXRaster>();
-}
-
-}

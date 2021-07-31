@@ -1,4 +1,0 @@
-Known issues:
--------------
-- MacOS does not implement POSIX sigtimedwait(). We used a simpler workaround. See (Shell.cpp, ln. 38-46).
-

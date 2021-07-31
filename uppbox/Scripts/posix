@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-
-D=~/upp.src
-~/bin/umk $D/uppbox,$D/uppsrc MakePosixInstall CLANG -rsvb ~/makeposix
-~/makeposix

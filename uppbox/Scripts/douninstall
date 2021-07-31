@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-
-./do-xdg-desktop-menu uninstall
-echo
-echo "Note: $0 only remove user desktop menu entry. Please remove upp source directory manually."

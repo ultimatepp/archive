@@ -1,9 +1,0 @@
-uses
-	Core;
-
-file
-	AsyncWork2.cpp;
-
-mainconfig
-	"" = "";
-
